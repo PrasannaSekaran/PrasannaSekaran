@@ -3,7 +3,7 @@
 🎓 **2024 Graduate** | B.E. Electrical & Electronical Engineering  
 📍 **Knowledge Institute of Technology (KIOT)**  
 
-🔍 **Machine Learning Engineer** & **Data Analyst**
+🔍 **AI / Machine Learning Engineer** & **Data Analyst**
 
 ---
 

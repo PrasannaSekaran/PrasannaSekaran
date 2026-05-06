@@ -111,25 +111,6 @@ prasanna = {
 
 ---
 
-## `> stats`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PrasannaSekaran&theme=dark&hide_border=true&background=04040a&ring=c8f542&fire=c8f542&currStreakLabel=c8f542&sideLabels=ede9de&currStreakNum=ede9de&sideNums=ede9de&dates=666666" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=PrasannaSekaran&show_icons=true&hide_border=true&bg_color=04040a&title_color=c8f542&icon_color=c8f542&text_color=ede9de&count_private=true" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasannaSekaran&layout=compact&hide_border=true&bg_color=04040a&title_color=c8f542&text_color=ede9de&langs_count=8" alt="Top Languages" />
-
-</div>
-
-> 💡 Stats will populate as you push repos — start uploading your projects!
-
----
 
 ## `> numbers`
 
